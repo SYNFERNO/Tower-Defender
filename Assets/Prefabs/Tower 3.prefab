@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3508184064669365077
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4101371785907264704, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145331318251657483, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_Name
+      value: Tower 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5732869041873093632, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 42203609030559a4d96ec1dd35b3c6b4, type: 3}
+    - target: {fileID: 7048114428336184096, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: _bulletPrefab
+      value: 
+      objectReference: {fileID: 7315859096019593644, guid: 101ac66a1e470b04482d701945912120, type: 3}
+    - target: {fileID: 7048114428336184096, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: _shootDistance
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048114428336184096, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
+      propertyPath: _bulletSplashRadius
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 81af224013eb2bd40831b5f225003c3c, type: 3}
